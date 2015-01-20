@@ -1,0 +1,69 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.box {
+	height: 600px;
+	width: 600px;
+	background-color: blue;
+	margin: 0 auto;
+	position: relative;
+
+}
+.two {
+	background-color: green;
+
+}
+button {
+	color: white;
+	background-color: red;
+	padding: 20px;
+	border: none;
+	display: block;
+	margin: auto;
+
+}
+
+.listFinder {
+	margin: 20px;	
+}
+
+.builtList {
+	font-size: 12px;
+	color: white;
+}
+
+.heading {
+	background:blue;
+	height: 400px;
+	width: 800px;
+}
+
+.hov {
+	background-color: red;
+
+}
+
+.mainBox {
+	height: 800px;
+	width: 800px;
+	margin: auto;
+	background-color: green;
+	position: relative;
+}
+.bigButton {
+	padding: 100px;
+	position: relative;
+}
+
+.popUp {
+	margin: auto;
+	width: 60%;
+	text-align: center;
+	height: 60%;
+	background: blue;
+	position: fixed;
+	z-index: 1;
+}
